@@ -1,0 +1,25 @@
+# Ignorowanie folderów debugowania i wyników kompilacji
+bin/
+obj/
+Debug/
+Release/
+
+# Pliki i foldery specyficzne dla Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorowanie plików tymczasowych systemowych
+.DS_Store
+Thumbs.db
+
+# Ignorowanie plików konfiguracji bazy danych
+*.db
+*.db-wal
+*.db-shm
+
+# Pliki konfiguracyjne JSON dla aplikacji 
+appsettings.Development.json
+appsettings.Local.json

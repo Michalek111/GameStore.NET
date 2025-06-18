@@ -29,7 +29,7 @@ Projekt składa się z dwóch głównych części:
    dotnet run
 
 
-### Frontend (React)
+### Frontend 
 1. **Przejdź do katalogu projektu frontendowego**:
    cd GameStoreF
    
